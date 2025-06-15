@@ -66,3 +66,4 @@ Setup Instructions:
     streamlit run app.py
 
 Make sure the files book_metadata.csv and book_index.faiss are in the same directory as app.py.
+NOTE: replace YOUR_HF_TOKEN with the actual value of your HF toketn
